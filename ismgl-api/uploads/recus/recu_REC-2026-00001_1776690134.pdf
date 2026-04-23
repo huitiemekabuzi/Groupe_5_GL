@@ -1,0 +1,100 @@
+%PDF-1.4
+%Entete binaire
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Contents 4 0 R /Resources << /Font << /F1 5 0 R >> >> >>
+endobj
+4 0 obj
+<< /Length 2926 >>
+stream
+BT
+/F1 10 Tf
+50 750 Td
+15 TL
+( Reçu REC-2026-00001 body { font-family: Arial, sans-serif; margin: 0; padding: 20px;) Tj
+T*
+(color: #333; } .header { text-align: center; border-bottom: 3px solid #003580;) Tj
+T*
+(padding-bottom: 15px; margin-bottom: 20px; } .header img { width: 80px; } .header h1 {) Tj
+T*
+(color: #003580; font-size: 24px; margin: 5px 0; } .header p { margin: 3px 0; font-size:) Tj
+T*
+(13px; color: #666; } .recu-title { background: #003580; color: white; text-align: center;) Tj
+T*
+(padding: 12px; font-size: 18px; font-weight: bold; border-radius: 5px; margin-bottom:) Tj
+T*
+(20px; } .recu-numero { text-align: center; font-size: 14px; color: #666; margin-bottom:) Tj
+T*
+(20px; } .section { margin-bottom: 20px; } .section h3 { color: #003580; border-bottom: 1px) Tj
+T*
+(solid #ddd; padding-bottom: 5px; font-size: 14px; } .info-grid { display: grid;) Tj
+T*
+(grid-template-columns: 1fr 1fr; gap: 10px; } .info-item { padding: 8px; background:) Tj
+T*
+(#f8f9fa; border-radius: 4px; } .info-label { font-size: 11px; color: #666; } .info-value {) Tj
+T*
+(font-size: 13px; font-weight: bold; color: #333; } .montant-box { background: #003580;) Tj
+T*
+(color: white; text-align: center; padding: 20px; border-radius: 8px; margin: 20px 0; }) Tj
+T*
+(.montant-label { font-size: 14px; margin-bottom: 5px; } .montant-value { font-size: 32px;) Tj
+T*
+(font-weight: bold; } .montant-currency { font-size: 16px; } .signature-section { display:) Tj
+T*
+(grid; grid-template-columns: 1fr 1fr; gap: 20px; margin-top: 40px; } .signature-box {) Tj
+T*
+(text-align: center; border-top: 1px solid #ddd; padding-top: 10px; } .footer { text-align:) Tj
+T*
+(center; font-size: 11px; color: #999; border-top: 1px solid #ddd; padding-top: 15px;) Tj
+T*
+(margin-top: 30px; } .badge { display: inline-block; padding: 4px 10px; border-radius:) Tj
+T*
+(12px; font-size: 12px; font-weight: bold; } .badge-success { background: #d4edda; color:) Tj
+T*
+(#155724; } @media print { body { margin: 0; } .no-print { display: none; } } ISMGL) Tj
+T*
+(Institut Supérieur de Management et de Gestion de Lubumbashi Avenue de l'Université,) Tj
+T*
+(Lubumbashi, RDC | Tel: +243 XXX XXX XXX Email: info@ismgl.cd | Web: www.ismgl.cd REÇU DE) Tj
+T*
+(PAIEMENT N° REC-2026-00001 INFORMATIONS DE L'ÉTUDIANT Numéro Étudiant ETU-2024-0001) Tj
+T*
+(Nom Complet Berthollet Munihire Filière Génie Logiciel Niveau Licence 1 Année) Tj
+T*
+(Académique 2024-2025 N° Inscription INS-2024-0001 INFORMATIONS DU PAIEMENT N° Paiement) Tj
+T*
+(PAY-2026-04-0001 Date & Heure 20/04/2026 13:12 Type de Frais Frais d'inscription Mode de) Tj
+T*
+(Paiement Carte bancaire Référence TEST-REF-001 Statut Validé MONTANT PAYÉ 200,00 FC) Tj
+T*
+(Reçu par: Kambale Justin Signature du Caissier Émis le: 20/04/2026 13:12 Cachet de) Tj
+T*
+(l'Établissement Ce reçu est un document officiel. Conservez-le précieusement. ISMGL -) Tj
+T*
+(Système de Gestion v1.0 Généré le 20/04/2026 à 15:02:14 ) Tj
+T*
+ET
+
+endstream
+endobj
+5 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica /Encoding /WinAnsiEncoding >>
+endobj
+xref
+0 6
+0000000000 65535 f
+0000000025 00000 n
+0000000074 00000 n
+0000000131 00000 n
+0000000257 00000 n
+0000003235 00000 n
+trailer
+<< /Size 6 /Root 1 0 R >>
+startxref
+3332
+%%EOF
