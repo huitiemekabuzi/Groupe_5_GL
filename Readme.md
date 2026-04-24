@@ -3,7 +3,7 @@
 ## PARTIE 1 : DOCUMENTATION POSTMAN
 
 ```markdown
-# 📋 ISMGL API - Documentation Complète des Tests Postman
+# ISMGL API - Documentation Complète des Tests Postman
 
 **Version:** 1.0.0  
 **Base URL:** `http://localhost/ismgl-api/api/v1`  
@@ -12,7 +12,7 @@
 
 ---
 
-## 🔧 Configuration Globale Postman
+# Configuration Globale Postman
 
 ### Variables d'environnement
 | Variable | Valeur initiale | Description |
@@ -49,7 +49,7 @@ if (pm.response.code === 200 || pm.response.code === 201) {
 
 ---
 
-## 🔐 1. MODULE AUTHENTIFICATION
+# 1. MODULE AUTHENTIFICATION
 
 ### 1.1 Connexion
 **`POST`** `/auth/login`
@@ -67,7 +67,7 @@ Content-Type: application/json
 }
 ```
 
-**✅ Réponse Succès (200):**
+** Réponse Succès (200):**
 ```json
 {
     "success": true,
