@@ -2,14 +2,13 @@
 
 ## PARTIE 1 : DOCUMENTATION POSTMAN
 
-```markdown
-# ISMGL API - Documentation Complète des Tests Postman
+> **ISMGL API - Documentation complète des tests Postman**
 
-**Version:** 1.0.0  
-**Base URL:** `http://localhost/ismgl-api/api/v1`  
-**Format:** JSON  
-**Authentification:** Bearer Token (JWT)
-
+> **Version:** _1.0.0_  
+**Base URL:** [http://localhost/ismgl-api/api/v1](http://localhost/ismgl-api/api/v1)  
+**Format:** _JSON_  
+**Authentification:** _Bearer Token (JWT)_
+```
 ---
 
 # Configuration Globale Postman
@@ -25,6 +24,7 @@
 | `paiement_id` | `` | ID paiement courant |
 
 ### Script Pre-request Global
+
 ```javascript
 pm.request.headers.add({
     key: 'Content-Type',
